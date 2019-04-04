@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 * [SeriesCollectionToListOfLegendItemPresentationConverter.cs](./CS/SeriesCollectionToListOfLegendItemPresentationConverter.cs) (VB: [SeriesCollectionToListOfLegendItemPresentationConverter.vb](./VB/SeriesCollectionToListOfLegendItemPresentationConverter.vb))
 <!-- default file list end -->
